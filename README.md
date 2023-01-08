@@ -17,7 +17,7 @@
  <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
- ![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=Sattwikmaiti&repo=dev.to)](https://github.com/Sattwikmaiti/dev.to)
+
 
 </div>
  
@@ -29,6 +29,8 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SattwikMaiti&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SattwikMaiti&layout=compact&theme=vision-friendly-dark)](https://github.com/SattwikMaiti/github-readme-stats)
+ ![Sattwik's github stats](https://github-readme-stats.vercel.app/api?username=Sattwikmaiti)
+
 
 
 
