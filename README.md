@@ -9,6 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=Sattwikmaiti&style=flat-square&color=blue" alt=""/>
   <h1>
   Welcome to my profile
+ [![trophy](https://github-profile-trophy.vercel.app/?username=Sattwikmaiti&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 <div id="badges">
   <a href="https://www.linkedin.com/in/sattwik-maiti-a582a81a0/">
