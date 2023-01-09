@@ -32,7 +32,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SattwikMaiti&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SattwikMaiti&layout=compact&theme=vision-friendly-dark)](https://github.com/SattwikMaiti/github-readme-stats)
  ![Sattwik's github stats](https://github-readme-stats.vercel.app/api?username=Sattwikmaiti&count_private=true&show_icons=true&theme=radical)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shubhodaya&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sattwikmaiti&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
