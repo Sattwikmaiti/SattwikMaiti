@@ -1,6 +1,7 @@
 
 
 ### Hi Unicorns , I am Sattwik Maiti  👋
+### Btech Enginneer,Computer Science (2021-25) @ National Institute of Technology ,Durgapur
 
  <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
