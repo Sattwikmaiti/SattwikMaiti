@@ -26,7 +26,7 @@
 </div>
  
  <a href="https://quine.sh/profile/sattwik"><img src="https://stats.quine.sh/sattwik/github" alt="sattwik's GitHub stats" width="840px"></a>
-
+[![sattwik's GitHub | Topics Over Time](https://stats.quine.sh/sattwik/topics-over-time?theme=light)](https://quine.sh)
 
 
 
