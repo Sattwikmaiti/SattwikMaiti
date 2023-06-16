@@ -1,4 +1,5 @@
 
+Welcome to my profile
 
 ### Hi Unicorns , I am Sattwik Maiti  👋
 ### Btech Enginneer,Computer Science (2021-25) @ National Institute of Technology ,Durgapur
@@ -8,8 +9,7 @@
 </div>
     
   <h1>
-  Welcome to my profile
-
+  
   
 <div id="badges">
   <a href="https://www.linkedin.com/in/sattwik-maiti-a582a81a0/">
