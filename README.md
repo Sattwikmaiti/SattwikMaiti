@@ -12,7 +12,7 @@
   <h1>
   Welcome to my profile
 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  
 <div id="badges">
   <a href="https://www.linkedin.com/in/sattwik-maiti-a582a81a0/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -25,8 +25,6 @@
 
 </div>
  
- <a href="https://quine.sh/profile/sattwik"><img src="https://stats.quine.sh/sattwik/github" alt="sattwik's GitHub stats" width="840px"></a>
-[![sattwik's GitHub | Topics Over Time](https://stats.quine.sh/sattwik/topics-over-time?theme=light)](https://quine.sh)
 
 
 
