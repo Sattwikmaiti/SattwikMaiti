@@ -1,8 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Sattwik Maiti</h1>
-<h3 align="center">A passionate FullStack Developer from India studing 
-BTECH,Computer Science Engineering (2021-25) @ National Institute of Technology ,Durgapur</h3>
+<h3 align="center">BTECH,Computer Science Engineering (2021-25) @ National Institute of Technology ,Durgapur</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
