@@ -23,7 +23,7 @@
 </p>
 
 <p align="left">
- <a href="[https://www.linkedin.com/in/sattwik-maiti-a582a81a0/](https://linktr.ee/sattwik_maiti)">
+ <a href="https://linktr.ee/sattwik_maiti">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTihbi1ef4gCjOGML0nJuB7qA47_qzyj2eU0g&usqp=CAU" alt="RESUME"/>
   </a>
 </p>
