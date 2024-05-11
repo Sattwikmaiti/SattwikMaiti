@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **DataScience**
+- 🌱 I’m currently learning **System Design & Core Java**
 
 - 💬 Ask me about **MERN**
 
