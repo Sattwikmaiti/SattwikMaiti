@@ -7,13 +7,12 @@
 
 
 
-- 🌱 I’m currently learning **System Design & Core Java**
+
 
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **maitisattwik@gmail.com**
 
-- ⚡ Fun fact **I am Funny&Passionate**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
