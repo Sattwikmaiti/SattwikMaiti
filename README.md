@@ -21,11 +21,7 @@
   </a>
 </p>
 
-<p align="left">
- <a href="https://linktr.ee/sattwik_maiti">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTihbi1ef4gCjOGML0nJuB7qA47_qzyj2eU0g&usqp=CAU" alt="RESUME"/>
-  </a>
-</p>
+
 
 ![Sattwik's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Sattwikmaiti&count_private=true&show_icons=true&theme=radical)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sattwikmaiti&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
